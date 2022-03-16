@@ -6,9 +6,13 @@ Just:
 
 1-Clone the repo
 
-2-Open commad line in app.py position
+2-Create an "Images" folder where your "app.py" file is.
 
-3-Type "py app.py" in command line and press enter 
+3-Add to the "Images" folder images of the people you wish to recognize, name of the person should be the title of its image.
+
+4-Open command line in app.py position
+
+5-Type "py app.py" in command line and press enter 
 
 ## Landing page
 
